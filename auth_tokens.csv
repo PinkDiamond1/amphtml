@@ -1,0 +1,2 @@
+id,auth_token_hash,prev_auth_token_hash,auth_token_seen,client_ip,user_agent,seen_at,rotated_at,created_at,updated_at
+76813,Izymx...,Izymx...,true,86.45.239.19,"Mozilla/5.0 (Linux; Android 11; SM-A217F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36",2021-11-02 05:14:08 UTC,2021-11-02 05:14:07 UTC,2021-11-02 05:14:07 UTC,2021-11-02 05:14:07 UTC

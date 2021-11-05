@@ -1,0 +1,2 @@
+id,action,user_auth_token_id,client_ip,auth_token_hash,created_at,path,user_agent
+2255921,generate,76813,86.45.239.19,Izymx...,2021-11-02 05:14:07 UTC,/u,"Mozilla/5.0 (Linux; Android 11; SM-A217F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36"
