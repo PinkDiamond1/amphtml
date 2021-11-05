@@ -1,0 +1,6 @@
+<server-configuration name="0xba9d4199fab4f26efe3551d490e3821486f135ba">
+   <service name="5Ja7g4DNDe3gkTKbnrCdLoG5ecbPD35gFejKzwyTXBUs7suS3g7" uuid="ef680400-9b35-4933-9b10-52ffa9740042"/>
+   <service configure="CURRENT_TIME"/>
+   <service configure="CURRENT_TIME"/>
+   <service configure="HEART_RATE"/>
+</server-configuration>
